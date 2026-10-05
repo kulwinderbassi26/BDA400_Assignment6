@@ -1,6 +1,6 @@
 # BDA400 - Assignment 6: Technical Analysis Dashboard
 
-**Student Name:** [Your Full Name]  
+**Student Name:** Kulwinder Bassi  
 **Course:** BDA400 / Data Science Tools and Techniques  
 **Assignment:** Assignment 6 - Technical Analysis using R, Visualization Phase  
 **Submission Date:** Session 15  
